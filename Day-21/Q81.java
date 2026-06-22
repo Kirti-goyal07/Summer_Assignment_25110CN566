@@ -15,7 +15,6 @@ public class Q81 {
                 count++;
             }
         } catch (Exception e) {
-            // End of string reached
         }
 
         System.out.println("Length of string = " + count);
